@@ -27,3 +27,10 @@ C:\Users\kruna\OneDrive\Desktop\project demo\project demo\bin\Debug\project demo
 C:\Users\kruna\OneDrive\Desktop\project demo\project demo\obj\x86\Debug\project demo.csprojAssemblyReference.cache
 C:\Users\kruna\OneDrive\Desktop\project demo\project demo\obj\x86\Debug\project demo.exe
 C:\Users\kruna\OneDrive\Desktop\project demo\project demo\obj\x86\Debug\project demo.pdb
+C:\Users\kruna\source\repos\krunal310\Hostel-Management-C-\project demo\project demo\bin\Debug\Database1.mdf
+C:\Users\kruna\source\repos\krunal310\Hostel-Management-C-\project demo\project demo\bin\Debug\Database1_log.ldf
+C:\Users\kruna\source\repos\krunal310\Hostel-Management-C-\project demo\project demo\bin\Debug\project demo.exe
+C:\Users\kruna\source\repos\krunal310\Hostel-Management-C-\project demo\project demo\bin\Debug\project demo.pdb
+C:\Users\kruna\source\repos\krunal310\Hostel-Management-C-\project demo\project demo\obj\x86\Debug\project demo.csprojAssemblyReference.cache
+C:\Users\kruna\source\repos\krunal310\Hostel-Management-C-\project demo\project demo\obj\x86\Debug\project demo.exe
+C:\Users\kruna\source\repos\krunal310\Hostel-Management-C-\project demo\project demo\obj\x86\Debug\project demo.pdb

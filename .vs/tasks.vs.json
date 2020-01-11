@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Database1",
+      "appliesTo": "project demo/project demo/Database1.mdf",
+      "type": "launch"
+    }
+  ]
+}
