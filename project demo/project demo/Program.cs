@@ -18,7 +18,7 @@ namespace project_demo
             Console.WriteLine("Enter Password: ");
             string pass = PassAsterisk();
             Console.ReadLine();
-            admin o = new admin();
+            Admin o = new Admin();
             string i = o.login(userid, pass);
 
             if (i == "yes")

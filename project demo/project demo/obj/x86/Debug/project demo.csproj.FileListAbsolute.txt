@@ -40,3 +40,4 @@ C:\Users\kruna\Source\Repos\krunal310\Hostel-Management-.net\project demo\projec
 C:\Users\kruna\Source\Repos\krunal310\Hostel-Management-.net\project demo\project demo\bin\Debug\project demo.pdb
 C:\Users\kruna\Source\Repos\krunal310\Hostel-Management-.net\project demo\project demo\obj\x86\Debug\project demo.exe
 C:\Users\kruna\Source\Repos\krunal310\Hostel-Management-.net\project demo\project demo\obj\x86\Debug\project demo.pdb
+C:\Users\kruna\Source\Repos\krunal310\Hostel-Management-.net\project demo\project demo\obj\x86\Debug\project demo.csprojAssemblyReference.cache
