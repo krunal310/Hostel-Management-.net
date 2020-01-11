@@ -7,6 +7,7 @@ using System.Data.SqlClient;
 
 namespace project_demo
 {
+    
     abstract class People
     {
         protected string p_name;
@@ -15,7 +16,7 @@ namespace project_demo
         protected string p_city;
         protected string p_email;
 
-        public abstract int login(int id, string pass);
+        public abstract string login(string userid, string pass);
 
        
 
@@ -40,21 +41,20 @@ namespace project_demo
         }
 
 
-        public override int login(int id, string pass)
+        public override string login(string userid, string pass)
         {
-
-            SqlCommand cmd = new SqlCommand("select * from Auth where Id=@id and pass=@pass", con);
-            cmd.Parameters.AddWithValue("@id", id);
+            SqlCommand cmd = new SqlCommand("select * from Auth where userid=@userid and pass=@pass", con);
+            cmd.Parameters.AddWithValue("@userid", userid);
             cmd.Parameters.AddWithValue("@pass", pass);
             con.Open();
             SqlDataReader dr = cmd.ExecuteReader();
             if (dr.HasRows)
             {
-                return 1;
+                return "yes";
             }
             else
             {
-                return 0;
+                return "no";
             }
 
         }

@@ -14,14 +14,14 @@ namespace project_demo
            
             Console.Clear();
             Console.WriteLine("Enter User ID: ");
-            int id = int.Parse(Console.ReadLine());
+            string userid = Console.ReadLine();
             Console.WriteLine("Enter Password: ");
             string pass = PassAsterisk();
             Console.ReadLine();
             admin o = new admin();
-            int i = o.login(id, pass);
+            string i = o.login(userid, pass);
 
-            if (i == 1)
+            if (i == "yes")
             {
                 Console.WriteLine("Successfull");
                 Home obj1 = new Home();
