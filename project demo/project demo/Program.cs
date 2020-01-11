@@ -7,8 +7,12 @@ namespace project_demo
 {
     class Program
     {
+        
         static void Main(string[] args)
         {
+        Start:
+           
+            Console.Clear();
             Console.WriteLine("Enter User ID: ");
             int id = int.Parse(Console.ReadLine());
             Console.WriteLine("Enter Password: ");
@@ -24,11 +28,21 @@ namespace project_demo
                 obj1.home();
 
             }
-            else
-            {
-                Console.WriteLine("Failed");
-
-            }
+          
+            
+            int a;
+                for( a=0;a<=2;a++)
+                {
+                   
+                    Console.WriteLine("Incorrect User ID or Password");
+                    Console.WriteLine("Failed. You have two more attempts\n");
+                    Console.WriteLine("Press any key to continue...");
+                    Console.WriteLine("{0}",a);
+                    Console.ReadKey();
+                    goto Start;
+                }
+                Environment.Exit(-1);
+            
         }
 
         public static string PassAsterisk()
