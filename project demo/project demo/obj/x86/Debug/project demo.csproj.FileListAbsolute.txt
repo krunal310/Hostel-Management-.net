@@ -1,0 +1,29 @@
+c:\users\student\documents\visual studio 2010\Projects\project demo\project demo\bin\Debug\Database1.mdf
+c:\users\student\documents\visual studio 2010\Projects\project demo\project demo\bin\Debug\Database1_log.ldf
+c:\users\student\documents\visual studio 2010\Projects\project demo\project demo\bin\Debug\Database2.mdf
+c:\users\student\documents\visual studio 2010\Projects\project demo\project demo\bin\Debug\Database2_log.ldf
+c:\users\student\documents\visual studio 2010\Projects\project demo\project demo\bin\Debug\project demo.exe
+c:\users\student\documents\visual studio 2010\Projects\project demo\project demo\bin\Debug\project demo.pdb
+c:\users\student\documents\visual studio 2010\Projects\project demo\project demo\obj\x86\Debug\project demo.exe
+c:\users\student\documents\visual studio 2010\Projects\project demo\project demo\obj\x86\Debug\project demo.pdb
+C:\Users\kruna\source\repos\project demo\project demo\obj\x86\Debug\project demo.csprojAssemblyReference.cache
+C:\Users\kruna\source\repos\project demo\project demo\obj\x86\Debug\project demo.exe
+C:\Users\kruna\source\repos\project demo\project demo\obj\x86\Debug\project demo.pdb
+C:\Users\kruna\source\repos\project demo\project demo\bin\Debug\Database1.mdf
+C:\Users\kruna\source\repos\project demo\project demo\bin\Debug\Database1_log.ldf
+C:\Users\kruna\source\repos\project demo\project demo\bin\Debug\project demo.exe
+C:\Users\kruna\source\repos\project demo\project demo\bin\Debug\project demo.pdb
+C:\study data\DNET\hostel Management System\project demo\project demo\obj\x86\Debug\project demo.exe
+C:\study data\DNET\hostel Management System\project demo\project demo\obj\x86\Debug\project demo.pdb
+C:\study data\DNET\hostel Management System\project demo\project demo\bin\Debug\Database1.mdf
+C:\study data\DNET\hostel Management System\project demo\project demo\bin\Debug\Database1_log.ldf
+C:\study data\DNET\hostel Management System\project demo\project demo\bin\Debug\project demo.exe
+C:\study data\DNET\hostel Management System\project demo\project demo\bin\Debug\project demo.pdb
+C:\study data\DNET\hostel Management System\project demo\project demo\obj\x86\Debug\project demo.csprojResolveAssemblyReference.cache
+C:\Users\kruna\OneDrive\Desktop\project demo\project demo\bin\Debug\Database1.mdf
+C:\Users\kruna\OneDrive\Desktop\project demo\project demo\bin\Debug\Database1_log.ldf
+C:\Users\kruna\OneDrive\Desktop\project demo\project demo\bin\Debug\project demo.exe
+C:\Users\kruna\OneDrive\Desktop\project demo\project demo\bin\Debug\project demo.pdb
+C:\Users\kruna\OneDrive\Desktop\project demo\project demo\obj\x86\Debug\project demo.csprojAssemblyReference.cache
+C:\Users\kruna\OneDrive\Desktop\project demo\project demo\obj\x86\Debug\project demo.exe
+C:\Users\kruna\OneDrive\Desktop\project demo\project demo\obj\x86\Debug\project demo.pdb
